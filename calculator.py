@@ -1,7 +1,7 @@
 class Calculator:
     def add(self, a: float, b: float) -> float:
         """Возвращает сумму двух чисел."""
-        return a + b
+        return a - b
 
     def subtract(self, a: float, b: float) -> float:
         """Возвращает разность двух чисел (a - b)."""
